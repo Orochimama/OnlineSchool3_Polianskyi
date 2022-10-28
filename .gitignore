@@ -1,0 +1,12 @@
+target/
+output/
+out
+.idea
+release/
+debug/
+*.log
+*~
+thumbs.db
+.DS_Store
+HT3_Polianskyi_3.rar
+*.iml
