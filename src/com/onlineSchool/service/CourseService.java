@@ -5,7 +5,7 @@ import com.onlineSchool.classes.Course;
 public class CourseService {
 
 
-    public Course creatCourse(int courseId) {
-               return new Course(courseId);
+    public Course creatCourse() {
+               return new Course();
     }
 }

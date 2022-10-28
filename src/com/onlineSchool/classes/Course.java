@@ -8,8 +8,7 @@ public class Course {
     private Student student;
     private Teacher teacher;
 
-    public Course(int courseId) {
+    public Course() {
         counterCourse++;
-
     }
 }
