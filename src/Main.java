@@ -130,6 +130,8 @@ public class Main {
             }
         }
 
+        scanner.close();
+
         System.out.println("");
         System.out.println("Exite program...");
         System.exit(0);
