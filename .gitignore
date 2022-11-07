@@ -104,16 +104,3 @@ out
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
-target/
-output/
-out
-.idea
-release/
-debug/
-*.log
-*~
-thumbs.db
-.DS_Store
-HT3_Polianskyi_3.rar
-*.iml
